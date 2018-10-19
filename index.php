@@ -1,3 +1,3 @@
 <?php
-echo "Moi j'aime la Leffe"
+echo "Moi j'aime la Leffe et le whisky"
 ?>
